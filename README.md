@@ -58,4 +58,4 @@ The extension supports two jogging modes via the buttons at the top of the inter
 
 ---
 
-![Capture Extension UI Edit]([https://github.com/NEWTech-Creative/ESP3D-WEBUI-Mods/blob/main/capture%20Extension.png](https://github.com/NEWTech-Creative/ESP3D-WEBUI-Mods/blob/main/capture%20edit.png)
+![Capture Extension UI Edit](https://github.com/NEWTech-Creative/ESP3D-WEBUI-Mods/blob/main/capture%20Extension.png](https://github.com/NEWTech-Creative/ESP3D-WEBUI-Mods/blob/main/capture%20edit.png)
